@@ -43,6 +43,9 @@
     <Compile Include="BaiTap.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="DFS.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="DuyetDoThiTheoChieuRong.py">
       <SubType>Code</SubType>
     </Compile>
@@ -50,6 +53,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Mang2chieu.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BFS.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="ReadFile.py">
