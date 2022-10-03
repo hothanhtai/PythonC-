@@ -21,6 +21,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="AlgorithmForTreeSearch.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Array.py">
       <SubType>Code</SubType>
     </Compile>
